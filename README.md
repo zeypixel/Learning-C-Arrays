@@ -1,3 +1,4 @@
+☔☔☔☔
 This code is a practical and detailed demonstration of using arrays in C++, covering almost everything about C-style arrays and std::array from the <array> library.
 It includes examples of:
 
